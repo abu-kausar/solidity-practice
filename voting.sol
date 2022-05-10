@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.12;
 
-contract ASAVoting{
+contract Voting{
     uint[] candidate_names = [1, 2, 3];
     uint total_candidate = candidate_names.length;
 
